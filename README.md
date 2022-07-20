@@ -1,4 +1,4 @@
-<h1> OpenSARSim: short demo <img style="align: right;" src="island.gif"></h1>
+<h1> OpenSARSim: short demo</h1> <img style="align: right;" src="island.gif">
 
 ## Imaging Geometry - Depression Angle {Yaw Angle, Scale, Range, etc.}
 
