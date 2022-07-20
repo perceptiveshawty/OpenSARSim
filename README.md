@@ -1,6 +1,6 @@
 <h1> OpenSARSim: short demo</h1> <img style="align: right;" src="island.gif">
 
-## Imaging Geometry - Depression Angle {Yaw Angle, Scale, Range, etc.}
+## Imaging Geometry - Depression Angle {Azimuth, Scale, Range, etc.}
 
 30 degrees (left), 15 degrees (right). Depicted is free CAD model of "The Shard" and its surroundings, in London. 
 
